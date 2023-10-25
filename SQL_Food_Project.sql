@@ -1,6 +1,5 @@
 
 -- BUSINESS QUESTION: DO THE HEALTHIER FOODS COST LESS?
-	-- 	This code seeks to answer the business question and provide three actionable insights using the data in SQL. 
 
 -- DEFINITIONS:
 	--  Healthy food: Includes: vegan, gluten free, vegetarian, organic, dairy free, sugar conscious, paleo friendly, 
