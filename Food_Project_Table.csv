@@ -1,0 +1,255 @@
+category,subcategory,product,vegan,glutenfree,ketofriendly,vegetarian,organic,dairyfree,sugarconscious,paleofriendly,wholefoodsdiet,lowsodium,kosher,lowfat,engine2,price,caloriesperserving,servingsize,servingsizeunits,totalsize,totalsizeunits,totalsecondarysize,secondarysizeunits,local
+Produce,Fresh Vegetables,Organic Yellow Bell Pepper,1,1,1,1,1,1,1,1,1,1,0,1,1,399,12,46,g,46,g,46,g,0
+Produce,Fresh Fruits,Red Cherries,1,1,0,1,0,1,0,1,1,1,0,1,1,799,87,138,g,138,g,138,g,0
+Produce,Fresh Herbs,Organic Mint Bunch,1,1,1,1,1,1,1,1,1,1,0,1,1,199,5,11,g,11,g,11,g,0
+Produce,Fresh Vegetables,Organic Red Cabbage,1,1,1,1,1,1,1,1,1,1,0,1,1,199,28,89,g,89,g,89,g,0
+Produce,Fresh Vegetables,Organic Yellow Onion,1,1,1,1,1,1,1,1,1,1,0,1,1,249,32,80,g,80,g,80,g,0
+Produce,Fresh Vegetables,Mini Cucumbers,1,1,1,1,0,1,1,1,1,1,0,1,1,299,16,53,g,106,g,106,g,0
+Produce,Fresh Vegetables,Organic Radicchio,1,1,1,1,1,1,1,1,1,0,0,1,1,499,9,40,g,40,g,40,g,0
+Produce,Fresh Fruits,Organic Minneola Tangelo,1,1,0,1,1,1,0,1,1,1,0,1,1,299,47,88,g,88,g,88,g,0
+Produce,Fresh Fruits,Organic Large Hass Avocados,1,1,1,1,1,1,1,1,1,1,0,1,1,299,80,50,g,200,g,200,g,0
+Produce,Fresh Vegetables,Morel Mushrooms,1,1,1,1,0,1,0,1,1,1,0,1,1,2349,25,7,g,14,g,14,g,0
+Produce,Fresh Vegetables,Organic Butternut Squash,1,1,0,1,1,1,1,1,1,1,0,1,1,199,63,140,g,140,g,140,g,0
+Produce,Fresh Fruits,Organic Blackberries,1,1,1,1,1,1,0,1,1,1,0,1,1,599,62,144,g,144,g,144,g,0
+Produce,Fresh Fruits,Lime,1,1,1,1,0,1,1,1,1,1,0,1,1,69,20,67,g,67,g,67,g,0
+Produce,Fresh Fruits,Bagged Lemons,1,1,1,1,0,1,1,1,1,1,0,1,1,399,17,58,g,907,g,907,g,0
+Produce,Fresh Vegetables,Organic Leeks,1,1,1,1,1,1,1,1,1,1,0,1,1,299,54,89,g,89,g,89,g,0
+Produce,Fresh Vegetables,Macho Plantain Bananas,1,1,0,1,0,1,0,1,1,1,0,1,1,99,181,148,g,148,g,148,g,0
+Produce,Fresh Vegetables,Organic Produce - Packaged Vegetables Garlic - Peeled,1,1,1,1,1,1,0,1,1,1,1,1,1,399,5,4,g,172,g,172,g,0
+Produce,Fresh Fruits,Organic Blueberries Pint,1,1,1,1,1,1,0,1,1,1,0,1,1,499,84,148,g,148,g,148,g,0
+Produce,Fresh Vegetables,Organic Garnet Sweet Potato,1,1,0,1,1,1,0,1,1,1,0,1,1,249,112,130,g,130,g,130,g,0
+Produce,Fresh Vegetables,Slicing Cucumbers,1,1,1,1,0,1,1,1,1,1,0,1,1,500,8,52,g,104,g,104,g,0
+Produce,Fresh Fruits,Pineapple,1,1,0,1,0,1,0,1,1,1,0,1,1,399,84,165,g,165,g,165,g,0
+Produce,Fresh Fruits,Comice Pear,1,1,0,1,0,1,0,1,1,1,0,1,1,199,46,70,g,70,g,70,g,0
+Dairy and Eggs,Butter & margarine,Organic Whipped Buttery Spread,1,0,1,1,1,1,0,0,0,1,1,0,0,729,80,11,g,363,g,363,g,0
+Dairy and Eggs,Cheese,Shredded Monterey Jack & Cheddar,0,0,1,0,0,0,1,0,1,0,0,0,0,429,110,28,g,224,g,224,g,0
+Dairy and Eggs,Cheese,Mini Original Semisoft Cheese (6-pk),0,0,1,1,0,0,1,0,1,0,0,0,0,629,70,21,g,756,g,756,g,0
+Dairy and Eggs,Cheese,Organic Cream Cheese,0,0,1,1,1,0,1,0,0,1,1,0,0,349,100,28,g,224,g,224,g,0
+Dairy and Eggs,Cheese,Organic Cultured Lowfat Cottage Cheese,0,0,1,1,1,0,0,0,0,0,1,1,0,569,80,110,g,440,g,440,g,0
+Dairy and Eggs,Cheese,Pavino Cheese,0,0,1,0,0,0,1,0,1,0,0,0,0,1499,110,28,g,1,lb,454,g,0
+Dairy and Eggs,Yogurt,Lactose Free Organic Plain Lowfat Yogurt,0,1,0,0,1,0,0,0,1,1,1,1,0,629,70,170,g,680,g,680,g,0
+Dairy and Eggs,Yogurt,Artisan Almond Milk Strawberry Yogurt,0,0,0,0,0,1,0,0,0,1,0,0,0,249,170,150,g,150,g,150,g,0
+Dairy and Eggs,Yogurt,Yobaby Peach / Pear Yogurt (6-pk),0,1,0,1,1,0,0,0,0,1,1,0,0,539,100,113,g,2034,g,2034,g,0
+Dairy and Eggs,Yogurt,siggi‚Äôs Plant-Based Probiotic Coconut Drink Strawberry,0,1,0,0,0,1,0,0,0,1,1,0,0,279,140,237,ml,237,ml,237,g,0
+Dairy and Eggs,Yogurt,Coconut Yogurt,1,0,0,1,0,1,0,0,0,1,0,0,0,429,210,142,g,142,g,142,g,0
+Dairy and Eggs,Yogurt,Dairy Free Coconut Milk Yogurt Alternative Chocolate Vegan Non-GMO Project Verified,1,0,0,1,0,1,0,0,0,1,0,0,0,199,140,150,g,150,g,150,g,0
+Dairy and Eggs,Yogurt,Mixed Berry Greek Drinkabe Yogurt,0,0,0,1,0,0,1,0,0,1,1,1,0,549,70,236,g,944,g,944,g,0
+Dairy and Eggs,Yogurt,Vanilla Protein Yogurt,0,0,0,0,0,1,0,0,0,1,1,0,0,249,130,150,g,150,g,150,g,0
+Dairy and Eggs,Dairy alternatives,Coconut Yogurt Blueberry Lavender,1,0,0,1,0,1,0,1,0,1,0,0,0,319,220,142,g,142,g,142,g,0
+Dairy and Eggs,Dairy alternatives,Mixed Berries (5.3oz) Plant Based Coconut Blend,1,1,0,1,0,1,0,1,0,1,1,0,0,239,180,150,g,150,g,150,g,0
+Dairy and Eggs,Dairy alternatives,Organic Unsweetened Vanilla Almondmilk (64 Fl Oz),1,0,1,1,1,1,1,1,1,0,1,1,1,369,40,240,ml,1920,ml,1920,g,0
+Dairy and Eggs,Dairy alternatives,Vanilla Coconut Yogurt,0,0,0,1,1,0,0,0,0,0,1,0,0,229,90,125,g,125,g,125,g,0
+Dairy and Eggs,Dairy alternatives,Organic Coconutmilk Original,1,1,0,1,1,1,0,0,0,0,1,0,0,349,70,240,ml,960,ml,960,g,0
+Dairy and Eggs,Dairy alternatives,Dairy Free Coconut Milk Yogurt Alternative Peach Vegan Non-GMO Project Verified,1,0,0,1,0,1,0,0,0,1,0,0,0,199,130,150,g,150,g,150,g,0
+Dairy and Eggs,Dairy alternatives,Coconut Yogurt,1,0,1,1,0,1,1,1,1,1,0,0,0,999,226,170,g,510,g,510,g,0
+Dairy and Eggs,Dairy alternatives,Cashew Beverage Original,0,0,0,0,0,1,0,0,0,1,0,0,0,429,70,240,ml,960,ml,960,g,0
+Dairy and Eggs,Dairy alternatives,Double Cream Garlic Herb Cheese,1,1,0,1,1,1,1,0,0,0,1,0,0,1129,120,28,g,196,g,196,g,0
+Dairy and Eggs,Milk & cream,Organic Golden Moon Milk,0,0,0,1,1,0,0,0,0,0,1,0,0,599,160,240,ml,960,ml,960,g,0
+Dairy and Eggs,Milk & cream,Organic Chocolate Cream Top Whole Milk,0,0,0,1,1,0,0,0,0,1,1,0,0,299,230,240,ml,360,ml,360,g,0
+Dairy and Eggs,Milk & cream,Original,1,1,1,1,0,1,1,1,0,0,1,0,0,599,10,15,ml,750,ml,750,g,0
+Dairy and Eggs,Milk & cream,Organic Half & Half,0,0,1,1,1,0,1,0,0,1,0,0,0,349,40,30,ml,480,ml,480,g,0
+Dairy and Eggs,Milk & cream,Non Fat Milk,0,0,0,1,0,0,0,0,1,1,1,1,0,699,90,240,ml,3840,ml,3840,g,0
+Meat,Turkey,Organic oven roasted turkey breast,0,0,0,0,1,1,0,1,0,0,0,1,0,699,70,56,grams,0,NULL,168,grams,0
+Meat,Turkey,Ground Turkey (Processed),0,1,1,0,1,1,1,1,0,1,0,0,0,799,170,28,grams,0,NULL,112,grams,0
+Meat,Turkey,Ground Turkey,0,1,1,0,1,1,1,1,0,1,0,0,0,999,120,28,grams,0,NULL,112,grams,0
+Meat,Turkey,94% Lean ground turkey thigh,0,0,1,0,0,1,1,1,0,1,0,0,0,599,170,28,grams,0,NULL,112,grams,0
+Meat,Beef,Sliced Roast Beef,0,0,0,0,0,1,0,0,0,0,0,1,0,599,90,56,grams,0,NULL,225,grams,0
+Meat,Beef,Ground Beef 80% Lean/ 20% Fat,0,0,1,0,0,1,1,1,0,1,0,0,0,699,290,113,grams,0,NULL,454,grams,0
+Meat,Chicken,Organic Whole Chicken,0,1,1,0,1,1,1,1,0,1,0,0,0,449,240,112,grams,0,NULL,960,grams,0
+Meat,Meat alternatives,Organic High Protein Tofu,1,0,1,1,1,1,1,0,1,1,1,0,0,419,130,91,grams,0,NULL,455,grams,0
+Meat,Meat alternatives,Plant-Based Ultimate Chick'n Tenders,1,0,0,1,0,1,0,0,0,0,1,0,0,999,230,101,grams,0,NULL,404,grams,0
+Meat,Meat alternatives,Organic Southwest Plant Taco Meatless Crumbles,1,0,1,1,1,1,1,0,0,0,1,0,0,739,90,24,grams,0,NULL,360,grams,0
+Meat,Meat alternatives,Traditional Seitan Strips,1,0,0,1,0,1,1,0,0,0,0,1,0,499,130,85,grams,0,NULL,325,grams,0
+Meat,Meat alternatives,Plant Based Crab Cakes,1,0,0,1,0,1,1,0,0,1,1,1,0,649,160,113,grams,0,NULL,640,grams,0
+Meat,Meat alternatives,Thai Curry Tofu Nuggets,1,1,0,1,1,1,0,0,0,0,1,1,0,629,160,85,grams,0,NULL,450,grams,0
+Meat,Meat alternatives,Plant Based Ground,1,0,0,1,0,1,0,0,0,0,0,1,0,739,250,113,grams,0,NULL,750,grams,0
+Meat,Meat alternatives,Organic Kombu,1,0,1,1,1,1,1,1,1,0,0,0,0,539,10,4,grams,0,NULL,120,grams,0
+Meat,Pork,Pork Shoulder Butt Bnls S1,0,0,1,0,0,1,1,1,1,1,0,0,0,599,229,85,grams,0,NULL,454,grams,0
+Meat,Pork,Boneless Pork Loin Chops,0,0,1,0,0,1,1,1,1,1,0,0,0,849,144,85,grams,0,NULL,454,grams,0
+Prepared Foods,Prepared soups & salads,Split Pea Soup,1,1,0,1,0,1,0,0,0,0,0,0,0,849,140,245,g,24,oz,680,g,0
+Prepared Foods,Prepared meals,Organic Free Range Chicken,0,1,1,0,1,1,1,1,1,1,0,0,0,599,120,85,g,3,oz,85,g,0
+Prepared Foods,Prepared soups & salads,Greek Orzo Pasta Salad,0,0,0,0,0,0,1,0,0,0,0,0,0,599,320,6,oz,12,oz,284,g,0
+Prepared Foods,Prepared meals,Penne alla Vodka with Sausage,0,0,0,0,0,0,0,0,0,0,0,0,0,1099,620,340,g,12,oz,340,g,0
+Prepared Foods,Prepared meals,Roast Salmon With Tomato Jam,0,0,0,0,0,1,1,0,0,0,0,0,0,1399,260,195,g,11.8,oz,335,g,0
+Prepared Foods,Prepared meals,General Tso Chicken Bowl,0,0,0,0,0,1,0,0,0,0,0,0,0,1299,741,16.4,oz,16,oz,454,g,0
+Prepared Foods,Prepared meals,Paleo Friendly Salmon,0,0,1,0,0,1,1,1,0,0,0,0,0,2499,130,3,oz,1,lb,453,g,0
+Prepared Foods,Prepared meals,Spicy Salmon Avocado Roll,0,0,0,0,0,1,0,0,0,0,0,0,0,1149,451,8.7,oz,8,oz,227,g,0
+Prepared Foods,Prepared meals,Spicy Shrimp Tempura Crunch Roll,0,0,0,0,0,1,0,0,0,0,0,0,0,1349,480,254,g,254,g,254,g,0
+Prepared Foods,Prepared meals,No Bulgur Tabbouleh & Falafel with Tahini & Spinach,0,0,0,1,0,0,0,0,0,0,0,0,0,999,440,269,g,9.5,oz,269,g,0
+Prepared Foods,Prepared soups & salads,Italian Wedding Soup,0,0,0,0,0,1,0,0,0,0,0,0,0,499,200,14.5,oz,14.5,oz,411,g,0
+Prepared Foods,Prepared soups & salads,Chicken Tortilla Soup,0,1,0,0,0,1,1,0,0,0,0,0,0,849,110,245,g,24,oz,680,g,0
+Prepared Foods,Prepared meals,Creamy Butternut Mac‚Äã,1,0,0,1,0,1,0,0,0,0,0,0,0,999,650,397,g,14,oz,397,g,0
+Bread Rolls & Bakery,Breads,Cream Cheese Brioche,0,0,0,0,0,0,0,0,0,0,0,0,0,839,140,50,g,14.1,oz,399.73,g,0
+Bread Rolls & Bakery,Breads,Honey Heritage Whole Grain Bread,0,1,0,0,0,1,0,0,0,0,1,0,0,999,110,43,g,24,oz,680.39,g,0
+Bread Rolls & Bakery,Breads,Sourdough Batard,1,0,0,1,0,1,1,0,0,0,0,1,0,700,150,57,g,16,oz,453.59,g,0
+Bread Rolls & Bakery,Breads,Cactus Tortillas 10 count,1,1,0,1,0,1,1,0,1,0,0,1,1,799,30,22,g,220,g,220,g,0
+Bread Rolls & Bakery,Breads,Scandinavian Oat Crispbread,1,0,1,1,0,1,1,0,1,1,1,1,1,399,20,8,g,3.6,oz,102.06,g,0
+Bread Rolls & Bakery,Breads,Sourdough Baguette,1,0,0,1,0,1,1,0,0,0,0,1,0,350,150,50,g,10.5,oz,297.67,g,0
+Bread Rolls & Bakery,Breads,Sliced 3 Seed Sourdough,1,0,0,1,0,1,1,0,0,0,0,1,0,699,100,43,g,24,oz,680.39,g,0
+Bread Rolls & Bakery,Breads,Papadum Cumin,1,0,1,1,0,1,1,0,0,0,0,1,0,569,25,10,g,4.2,oz,119.07,g,0
+Bread Rolls & Bakery,Breakfast Bakery,Ladyfinger's,0,0,0,0,0,1,0,0,0,0,0,0,0,349,120,33,g,7,oz,198.45,g,0
+Bread Rolls & Bakery,Rolls & Buns,Soft Pretzel Sausage Buns,0,0,0,1,0,1,0,0,0,0,1,0,0,639,200,74,g,10.4,oz,294.83,g,0
+Bread Rolls & Bakery,Rolls & Buns,Two Bite Cinnamon Rolls,0,0,0,0,0,0,0,0,0,0,1,0,0,599,210,57,g,13,oz,368.54,g,0
+Bread Rolls & Bakery,Rolls & Buns,Multi-Grain One Bun Sandwich Buns,0,0,0,1,0,1,0,0,0,0,1,0,0,469,180,75,g,21,oz,595.34,g,0
+Bread Rolls & Bakery,Rolls & Buns,Apple Cinnamon Morning Rounds,0,0,0,1,0,1,0,0,0,0,1,1,0,429,150,60,g,12.7,oz,360.04,g,0
+Bread Rolls & Bakery,Rolls & Buns,Limited Edition Dinner Rolls 12 count,1,0,0,1,0,1,0,0,0,0,0,0,0,369,110,43,g,18,oz,510.29,g,0
+Bread Rolls & Bakery,Tortillas & Flat Breads,Cassava & Coconut Amazing Grain Free Tortilla,1,1,0,1,0,1,1,1,0,0,0,0,0,799,120,50,g,7,oz,198.45,g,0
+Bread Rolls & Bakery,Tortillas & Flat Breads,White Flour Tortilla,1,0,0,1,0,1,0,0,0,0,1,0,0,599,150,48,g,13.5,oz,382.72,g,0
+Bread Rolls & Bakery,Tortillas & Flat Breads,Olive Oil Sel Gris Flatbread Bites,1,0,0,1,1,1,0,0,0,0,0,1,0,599,80,28,g,4,oz,113.4,g,0
+Bread Rolls & Bakery,Tortillas & Flat Breads,Whole Grain Lavash Flatbread,0,0,0,1,0,1,0,0,0,1,1,1,1,419,100,57,g,10,oz,283.5,g,0
+Bread Rolls & Bakery,Tortillas & Flat Breads,Traditional Lavash Flatbread,0,0,0,1,0,1,0,0,0,1,1,1,0,419,120,57,g,10,oz,283.5,g,0
+Desserts,Ice cream & Frozen dessert,Mango Fruit Bars,1,0,0,1,0,1,0,0,1,1,1,1,0,349,120,118,g,16,fl oz,454,g,0
+Desserts,Ice cream & Frozen dessert,Organic Frozen Ice Cream Coffee Chip,0,1,0,1,1,0,0,0,1,1,0,0,0,469,230,96,g,473,ml,473,g,0
+Desserts,Ice cream & Frozen dessert,Hong Kong Milk Team Ice Cream,0,0,0,0,0,0,0,0,0,0,0,0,0,999,220,98,g,473,ml,473,g,0
+Desserts,Ice cream & Frozen dessert,Ice Cream Sandwiches,0,0,0,1,1,0,0,0,1,0,1,0,0,599,170,65,g,21.9,fl oz,621,g,0
+Desserts,Ice cream & Frozen dessert,Organic Assorted Junior Pops,1,0,0,1,1,1,0,0,0,0,1,0,0,699,70,148,g,1.65,fl oz,47,g,0
+Desserts,Ice cream & Frozen dessert,Extra Creamy Vanilla Bean,0,0,0,0,0,0,0,0,0,1,0,0,0,199,160,4.4,oz,4.4,oz,125,g,0
+Desserts,Cookies,Chocolate Chip Cookies,0,0,0,1,0,0,0,0,0,1,0,0,0,699,260,1.67,oz,10,oz,284,g,0
+Desserts,Cookies,Chocolate Chip Cookies,0,0,0,1,0,0,0,0,0,0,1,0,0,649,140,28,g,7,g,198,g,0
+Desserts,Cookies,Classic Creme Mini Cookies,0,0,0,1,0,1,0,0,0,0,1,0,0,549,130,28,g,6,oz,170,g,0
+Desserts,Cookies,Peanut Butter Chocolate Chip Protein Cookie,1,1,0,1,0,1,0,0,0,1,0,0,0,269,160,42,g,2.96,oz,42,g,0
+Desserts,Muffins & Scones,Maple Apple Doughnut Muffins,0,0,0,0,0,0,0,0,0,0,0,0,0,799,110,30,g,9,oz,30,g,0
+Desserts,Muffins & Scones,Abe's Muffins Vegan Wild Blueberry Smash Mini-muffins,1,1,0,1,0,0,0,0,0,0,1,0,0,599,210,55,g,10,oz,55,g,0
+Desserts,Muffins & Scones,Blueberry Scone ,1,0,0,1,0,1,0,0,0,0,0,0,0,699,470,12,oz,12,oz,340,g,0
+Desserts,Pastries Brownies & Bars,Brownies ,1,0,0,1,0,1,0,0,0,0,0,0,0,799,320,10,oz,10,oz,284,g,0
+Desserts,Ice cream & Frozen dessert,Cookies & Cr√®me,0,1,0,0,0,1,0,0,0,1,0,0,0,699,180,95,g,473,ml,95,g,0
+Desserts,Ice cream & Frozen dessert,Vanilla Ice Cream ,0,1,0,0,0,0,0,0,0,1,1,0,0,639,200,96,g,1.4,lt,1400,g,0
+Desserts,Ice cream & Frozen dessert,Jeni's Buttercream Birthday Cake,0,0,0,0,0,0,0,0,0,0,0,0,0,899,310,112,g,473,ml,473,g,0
+Desserts,Ice cream & Frozen dessert,Ben & Jerry's vanilla Ice cream,0,1,0,0,0,0,0,0,0,1,1,0,0,649,330,143,g,473,ml,473,g,0
+Desserts,Cakes & Cupcakes,Ready-To-Eat Two-Bite Chocolate Cupcakes ,0,0,0,0,0,0,0,0,0,0,1,0,0,539,310,75,g,10.5,oz,298,g,0
+Desserts,Cakes & Cupcakes,Fig Almond Cake,1,0,0,1,0,1,0,1,1,0,0,0,0,1299,186,85,g,85,g,85,g,0
+Desserts,Cookies,Chocolate Chip Two-bite¬Æ Cookies,0,0,0,0,0,0,0,1,1,0,0,0,0,599,130,30,g,10.5,oz,298,g,0
+Desserts,Cookies,Tate's Bake Shop Chocolate Chip Cookies ,0,0,0,0,0,0,0,0,1,0,0,0,0,649,140,28,g,7,oz,198,g,0
+Desserts,Ice cream & Frozen dessert,Frozen Organic Ice Cream Vanilla Bean,0,1,0,1,1,0,0,1,1,0,0,0,0,469,200,157.67,ml,473,ml,473,g,0
+Desserts,Ice cream & Frozen dessert,Matchadoodle Ice Cream,0,0,0,0,0,0,0,0,0,0,0,0,0,999,170,157.67,ml,473,ml,473,g,0
+supplements,specialty,Original Plain Fresh Coconut Water Probiotic,1,0,1,1,0,1,1,1,1,0,0,0,0,2749,5,15,ml,443,g,44,g,0
+supplements,specialty,Digestion Enzymes Papaya,1,0,0,1,0,1,0,0,0,0,0,0,0,2899,5,2,unit,500,unit,0,,0
+supplements,childrens-health,Kids Gummy Multivitamin,0,1,0,0,0,1,0,0,0,0,0,0,0,1299,5,1,unit,180,unit,0,,0
+supplements,functional-foods,Organic Black Chia Seed,1,0,1,1,1,1,1,1,1,1,1,0,1,1449,160,30,g,425,g,43,g,0
+supplements,functional-foods,Organic Hulled Hemp Seed,1,0,1,1,1,1,1,1,1,1,1,0,1,1399,180,30,g,340,g,0,,0
+supplements,functional-foods,Organic Hemp Hearts,1,0,1,1,1,1,1,1,1,1,1,0,1,1899,180,30,g,340,g,0,,0
+supplements,sports-nutrition-weight-management,Organic Vanilla Plant Protein Powder,0,0,0,1,1,1,0,0,0,0,0,0,0,3249,160,37,g,555,g,0,,0
+supplements,sports-nutrition-weight-management,Grass Fed Chocolate Whey Sport Protein Powder,0,1,1,1,0,0,1,0,0,1,0,1,0,5999,120,33,g,660,g,0,,0
+supplements,sports-nutrition-weight-management,Organic Dark Chocolate Whey Protein,0,1,0,1,1,0,1,0,0,1,1,0,0,3399,110,28,g,340,g,0,,0
+supplements,sports-nutrition-weight-management,Organic Pea Protein Powder,1,1,1,1,1,1,1,1,0,0,1,0,0,1699,70,20,g,454,g,0,,0
+supplements,vitamin-mineral,Earthsweet Vit C 500 Mg Chewable,1,0,0,1,0,1,0,1,0,0,1,0,0,2199,10,1,unit,90,unit,0,,0
+supplements,wellness-seasonal,Organic Manuka Honey Drops,0,0,0,0,0,0,0,0,0,0,0,0,0,969,50,12,g,120,g,0,,0
+supplements,wellness-seasonal,Standardized Elderberry Sambucus Gummies,0,0,0,0,0,0,0,0,0,0,0,0,0,1759,15,2,unit,60,unit,0,,0
+supplements,wellness-seasonal,Wellness Formula Capsules,0,0,0,0,0,0,0,0,0,0,0,0,0,2599,5,6,unit,120,unit,0,,0
+supplements,specialty,Organic Immunity Boost Wellness Shot,1,0,0,1,1,1,1,0,1,1,0,0,0,399,20,59,ml,59,unit,0,,0
+supplements,specialty,Ultimate Omega Liquid,0,0,1,0,0,1,0,0,0,0,0,0,0,7199,45,5,ml,237,ml,0,,0
+Frozen Foods,Frozen Entrees & Appetizers,Grain-free Super Cauliflower Veggie Burger,1,1,0,1,0,1,1,0,0,0,1,0,0,599,180,78,g,312,g,312,g,0
+Frozen Foods,Frozen Entrees & Appetizers,Black Eyed Peas - No Salt Added,1,0,0,1,0,1,1,0,1,1,0,1,1,269,100,85,g,454,g,454,g,0
+Frozen Foods,Frozen Entrees & Appetizers,Dark Chocolate,1,1,0,1,1,1,0,0,0,1,1,0,0,899,230,117,g,414,g,414,g,0
+Frozen Foods,Frozen Entrees & Appetizers,Golden Banana Brownie Swirl,1,1,0,1,1,1,0,0,0,1,1,0,0,899,260,119,g,414,g,414,g,0
+Frozen Foods,Frozen Fruits & Vegetables,Bite Size Aloe Vera Cubes,1,0,1,1,0,1,1,1,1,1,1,1,1,699,2,3,oz,340,g,340,g,0
+Frozen Foods,Frozen Fruits & Vegetables,Organic Cauliflower Florets,1,0,1,1,1,1,1,1,1,1,0,1,1,319,20,85,g,454,g,454,g,0
+Frozen Foods,Frozen Pizza,Cheese Pizza,0,0,0,0,1,0,0,0,0,0,1,0,0,999,290,123,g,369,g,369,g,0
+Frozen Foods,Frozen Pizza,Zucchini Rapini Pizza,0,0,0,0,0,0,0,0,0,0,0,0,0,879,960,130,g,389,g,389,g,0
+Frozen Foods,Ice Cream & frozen desserts,Gooey Butter Cake Ice Cream,0,0,0,0,0,0,0,0,0,0,0,0,0,899,330,121,g,473,ml,473,g,0
+Frozen Foods,Ice Cream & frozen desserts,Cashewmilk Salted Caramel Cluster,1,1,0,1,0,1,0,0,0,0,1,0,0,799,260,113,g,473,ml,473,g,0
+Frozen Foods,Ice Cream & frozen desserts,Half Baked Ice Cream,0,0,0,0,0,0,0,0,0,1,1,0,0,649,370,141,g,473,ml,473,g,0
+Frozen Foods,Ice Cream & frozen desserts,Salted Caramel Truffle Gelato,0,0,0,0,0,0,0,0,0,1,1,0,0,799,330,117,g,323.1,g,323,g,0
+Frozen Foods,Ice Cream & frozen desserts,Pie Ice Cream,0,0,0,0,0,0,0,0,0,0,0,0,0,839,220,107,g,414,ml,414,g,0
+Frozen Foods,Ice Cream & frozen desserts,Organic Hot Cocoa Ice Cream Sandwiches,0,0,0,1,1,0,0,0,0,0,1,0,0,399,190,70,g,648,ml,648,g,0
+Frozen Foods,Ice Cream & frozen desserts,Organic INT Chocolate Ice Cream Bar,0,0,0,1,1,0,0,0,0,0,1,0,0,469,250,78,g,266,ml,266,g,0
+Frozen Foods,Ice Cream & frozen desserts,Chocolate Birthday Ice Cream,0,0,0,0,0,0,0,0,0,0,0,0,0,649,430,137,g,414,ml,414,g,0
+Frozen Foods,Ice Cream & frozen desserts,Candy Cane Chocolate Chip Cornflake,0,0,0,0,0,0,0,0,0,0,0,0,0,839,380,132,g,414,ml,414,g,0
+Frozen Foods,Ice Cream & frozen desserts,Sea Salt Caramel Frozen Yoghurt Gelato,0,0,0,0,0,0,0,0,0,0,1,0,0,59900,260,115,g,414,ml,414,g,0
+Frozen Foods,Ice Cream & frozen desserts,Blue Jasmine Tea Handcrafted Ice Cream,0,0,0,0,0,0,0,0,0,0,0,0,0,899,250,158,ml,414,ml,414,g,1
+Frozen Foods,Frozen Entrees & Appetizers,Chicken Pot Pie,0,0,0,0,0,1,0,0,0,0,0,0,0,569,360,227,g,227,g,227,g,0
+Frozen Foods,Frozen Entrees & Appetizers,Strawberry Frozen Dessert,1,1,0,1,0,1,0,0,0,1,1,0,0,679,200,100,g,300,g,300,g,0
+Frozen Foods,Frozen Entrees & Appetizers,Mozzarella Sticks,0,0,0,0,0,0,0,0,0,0,0,0,0,449,320,88,g,227,g,227,g,0
+Meat,Pork,Natural Uncured Genoa Salami 4oz,0,0,0,0,0,1,0,0,0,0,0,0,0,699,100,28,g,112,g,0,NULL,0
+Meat,Pork,Sliced Prosciutto,0,1,1,0,0,1,1,1,0,0,0,0,0,799,120,56,g,56,g,0,NULL,0
+Meat,Pork,Organic Ground Pork,0,0,1,0,1,1,1,1,0,1,0,0,0,899,210,112,g,448,g,0,NULL,0
+Meat,Pork,Calabrese Sliced Spicy Salame,0,1,1,0,0,1,0,0,0,0,0,0,0,769,110,28,g,112,g,0,NULL,0
+Meat,Pork,Boneless Pork Loin Chops,0,0,1,0,0,1,1,1,1,1,0,0,0,849,144,85,g,453.6,g,0,NULL,0
+Meat,Turkey,Organic oven roasted turkey breast,0,0,0,0,1,1,0,1,0,0,0,1,0,699,70,56,g,168,g,0,NULL,0
+Meat,Turkey,94% Lean ground turkey thigh,0,0,1,0,0,1,1,1,0,1,0,0,0,599,170,28,g,112,g,0,NULL,0
+Meat,Beef,Beef Pastrami,0,0,0,0,0,1,0,0,0,0,0,1,0,1399,140,85,g,450.5,g,0,NULL,0
+Meat,Beef,Sliced Roast Beef,0,0,0,0,0,1,0,0,0,0,0,1,0,599,90,56,g,140,g,0,NULL,0
+Meat,Chicken,Organic Plain Rotisserie Chicken,0,0,1,0,0,1,1,1,0,1,0,0,0,1249,200,85,g,450.5,g,0,NULL,0
+Meat,Bacon,Wellshire Thick Sliced Dry Rubbed Uncured Bacon,0,0,1,0,0,1,0,0,0,0,0,0,0,999,50,12,g,132,g,0,NULL,0
+Meat,Hotdogs & sausage,365 Country Breakfast Pork Sausage,0,1,1,0,0,1,0,0,0,0,0,0,0,649,170,70,g,420,g,0,NULL,0
+Meat,Meat alternatives,365 Everyday Value Organic Extra Firm Tofu,1,0,1,1,1,1,1,0,1,1,1,0,1,269,80,84,g,378,g,0,NULL,0
+Meat,Meat alternatives,Cookout Classic Plant-Based Burger Patties 8 pk 32 oz,1,0,1,1,0,1,1,0,0,0,1,0,0,1899,290,133,g,904,g,0,NULL,0
+Meat,Meat alternatives,Plant-Based Ultimate Chick'n Tenders,1,0,0,1,0,1,0,0,0,0,1,0,0,999,230,101,g,404,g,0,NULL,0
+Meat,Meat alternatives,Traditional Seitan Strips,1,0,0,1,0,1,1,0,0,0,0,1,0,499,130,85,g,212.5,g,0,NULL,0
+Meat,Meat alternatives,Thai Curry Tofu Nuggets,1,1,0,1,1,1,0,0,0,0,1,1,0,629,160,85,g,450,g,0,NULL,0
+Meat,Meat alternatives,Plant Based Ground,1,0,0,1,0,1,0,0,0,0,0,1,0,739,250,113,g,339,g,0,NULL,0
+Meat,Meat alternatives,Organic Kombu,1,0,1,1,1,1,1,1,1,0,0,0,0,539,10,4,g,48,g,0,NULL,0
+Meat,Seafood,Tilapia Fillet,0,0,1,0,0,1,0,1,1,0,0,0,0,899,230,113,g,453.5,g,0,NULL,0
+Meat,Seafood,Frozen Farm-Raised Seafood Value Pack Atlantic Salmon Fillets,0,0,1,0,0,1,1,1,1,1,0,0,0,2999,240,113,g,904,g,0,NULL,0
+Meat,Seafood,Anchovy Fillets In Olive Oil,0,0,1,0,0,1,1,1,0,0,0,0,0,599,25,15,g,52.5,g,0,NULL,0
+Beverages,Juice,Kids Super Fruit Punch,0,0,0,1,1,1,0,0,1,0,0,1,0,549,40,1,8,6.75,fl oz,200,NULL,0
+Beverages,Kombucha & Tea,Kombucha Ginger Lime,1,1,0,1,1,1,0,0,0,1,1,1,0,419,30,8,1.5,12,fl oz,354,NULL,0
+Beverages,Kombucha & Tea,Kombucha Lvndr Can Org,1,0,0,1,1,1,0,0,0,1,0,1,0,369,45,12,1,12,fl oz,354,NULL,0
+Beverages,Soft Drinks,Organic Grapefruit Soda,1,0,0,1,1,1,0,0,0,1,0,1,0,449,140,11.2,4,44.8,fl oz,1321,NULL,0
+Beverages,Sports Energy & Nutritional Drinks,Pomegranate Liquid Energy,0,0,0,0,0,1,0,0,0,0,0,0,0,249,25,1,1,2,fl oz,59,NULL,0
+Beverages,Juice,Mango Juice,1,1,0,1,0,1,0,0,1,1,1,1,0,449,120,8,4,33.8,fl oz,997,NULL,0
+Beverages,Tea,Peach Yerba Mate,1,0,0,1,1,1,0,0,0,1,0,1,0,349,30,8,2,16,fl oz,472,NULL,0
+Beverages,Coffee,Brew Organic Mocha Coffee Cold Brew,1,0,0,1,1,1,1,1,1,1,1,1,1,1049,15,8,4,32,fl oz,944,NULL,0
+Beverages,Juice,Naked Green Machine Smoothie,1,0,0,1,0,1,0,0,0,1,1,1,0,349,270,15.2,1,15.2,fl oz,449,NULL,0
+Beverages,Sports Energy & Nutritional Drinks,Organic Guava Passionfruit Energy Drink,1,0,0,1,1,1,0,0,0,1,1,1,0,249,60,12,1,12,fl oz,354,NULL,0
+Beverages,Tea,Organic Matcha Powder,1,1,1,1,1,1,1,1,1,1,1,1,1,1499,10,1,70,5,oz,148,NULL,0
+Beverages,Juice,100% Orange Juice No Pulp (Not From Concentrate),1,0,0,1,0,1,0,0,1,1,1,1,0,429,110,8,7,59,oz,1740,NULL,0
+Beverages,Coffee,Unsweetened Medium Roast Iced Coffee,1,0,0,1,0,1,0,1,1,1,1,1,1,599,15,12,4,48,fl oz,1416,NULL,0
+Beverages,Water Seltzer & Sparkling Water,Organic Chocolate Coconut Smoothie,1,0,0,1,1,1,0,1,1,1,0,0,0,399,120,10,1,10,fl oz,295,NULL,0
+Beverages,Coffee,Verve Seabright House Blend Whole Bean Coffee,1,0,1,1,0,1,1,1,1,1,0,1,1,1579,2.4,8,1.5,12,oz,354,NULL,0
+NULL,NULL,Salted Restaurant Style Tortilla Chips,0,1,0,1,0,1,1,0,0,1,1,0,0,3.79,140,28,NULL,397,NULL,0,NULL,0
+NULL,NULL,Peanut Butter Filled Pretezels,0,1,0,0,0,1,0,0,0,0,1,0,0,5.69,110,28,NULL,198,NULL,0,NULL,0
+NULL,NULL,Grain Free Lime Tortilla Chips,1,1,0,1,0,1,1,1,0,1,0,0,0,4.99,130,28,NULL,142,NULL,0,NULL,0
+NULL,NULL,Restaurant Style Dip Chips,1,1,0,1,0,1,1,1,0,1,0,0,0,4.99,130,28,NULL,142,NULL,0,NULL,0
+NULL,NULL,Vegan White Cheddar Puffs,1,1,0,1,1,1,0,0,0,0,1,0,0,3.99,170,28,NULL,113,NULL,0,NULL,0
+NULL,NULL,Sea Salt & Vinegar Potato Chips,1,1,0,1,0,1,1,0,0,0,1,0,0,6.79,140,28,NULL,368,NULL,0,NULL,0
+NULL,NULL,Fine Ground Sea Salt Almond Flour Crakers,1,1,0,1,0,1,1,1,1,0,1,0,0,5.39,150,30,NULL,120,NULL,0,NULL,0
+NULL,NULL,Gluten Free Original,0,1,0,0,0,1,0,0,0,0,0,0,0,4.99,45,13,NULL,155,NULL,0,NULL,0
+NULL,NULL,Garlic and Herb Seed Crackers,1,1,0,1,1,1,1,1,1,0,1,0,0,5.39,150,30,NULL,120,NULL,0,NULL,0
+NULL,NULL,Cheddar Cheese Nut-Thins,0,1,0,0,0,0,1,0,0,0,1,0,0,4.49,130,30,NULL,120.5,NULL,0,NULL,0
+NULL,NULL,Organic Round Crackers,1,0,0,1,1,1,0,0,0,0,1,0,0,4.29,130,30,NULL,340,NULL,0,NULL,0
+NULL,NULL,Mixed berry Granola Bars,1,1,0,1,1,1,0,0,0,1,1,0,0,5.99,100,24,NULL,144,NULL,0,NULL,0
+NULL,NULL,Banana + Almond Butter Macrobar,1,1,0,1,1,1,0,0,0,1,1,0,0,3.49,280,65,NULL,65,NULL,0,NULL,0
+NULL,NULL,Peanut Butter Protein Bar,0,0,0,1,0,1,0,0,1,0,1,0,0,2.79,200,52,NULL,52,NULL,0,NULL,0
+NULL,NULL,Organic Peanut Butter Chocolate Chip Mini Macrobars 8 Pack,1,1,0,1,1,1,0,0,0,1,1,0,0,10.99,110,25,NULL,200,NULL,0,NULL,0
+NULL,NULL,Peanut Butter & Jelly Protein Popper,0,0,0,1,0,1,0,0,0,1,1,0,0,2.79,180,45,NULL,45,NULL,0,NULL,0
+NULL,NULL,Mango Halves Organic,1,0,0,1,1,1,0,1,1,1,1,1,1,9.99,130,10,NULL,227,NULL,0,NULL,0
+NULL,NULL,Organic Pine Nuts,1,0,1,1,1,1,1,1,1,1,1,0,0,10.29,190,30,NULL,113,NULL,0,NULL,0
+NULL,NULL,Organic Dried Fruit California Raisins,1,0,0,1,1,1,0,1,1,1,1,1,1,5.29,120,40,NULL,340,NULL,0,NULL,0
+NULL,NULL,Sourmelon Bites,1,0,0,1,0,1,1,0,0,1,0,1,0,9.99,80,30,NULL,150,NULL,0,NULL,0
+NULL,NULL,Roasted Shelled Pistachios,1,0,1,1,0,1,1,1,1,0,1,0,0,15.79,160,28,NULL,340,NULL,0,NULL,0
+NULL,NULL,Organic Cheesy Puffs,0,1,0,1,1,0,1,0,0,0,0,0,0,5.29,160,30,NULL,113,NULL,0,NULL,0
+NULL,NULL,Vegan White Cheddar Puffs,1,1,0,1,1,1,0,0,0,0,0,0,0,7.49,130,28,NULL,113,NULL,0,NULL,0
+NULL,NULL,Organic Thick & Chunky Mild Salsa,1,0,1,1,1,1,1,1,1,1,0,1,1,3.99,10,30,NULL,454,NULL,0,NULL,0
+NULL,NULL,Organic Thick And Chunky Mild Salsa,1,0,1,1,1,1,1,1,1,0,0,1,1,4.89,10,31,NULL,439,NULL,0,NULL,0
+NULL,NULL,Dark Chocolate Coconut Bars,1,0,0,1,0,1,0,0,0,1,1,0,0,6.49,70,15,NULL,120,NULL,0,NULL,0
+NULL,NULL,Vegan Marshmallows,0,1,0,0,0,1,0,0,0,1,1,1,0,4.79,100,28,NULL,283,NULL,0,NULL,0
+NULL,NULL,Salty Dark Chocolate Bar,1,1,0,1,1,1,0,1,0,1,1,0,0,6.49,180,30,NULL,60,NULL,0,NULL,0
+NULL,NULL,Covered Pretzels Dark Chocolate,0,0,0,0,0,0,0,0,0,0,1,0,0,4.69,130,30,NULL,142,NULL,0,NULL,0
+Beer,Hard Cider,Dry Apple Cider,1,0,1,1,0,1,1,1,0,0,0,0,0,3,160,12,NULL,1,NULL,0,NULL,0
+Beer,Hard Kombucha,Midnight Painkiller,0,1,0,1,1,1,0,0,0,0,1,0,0,13.99,150,12,NULL,6,NULL,0,NULL,0
+Beer,Beer,Bud Light,1,0,0,0,0,1,1,0,0,0,0,0,0,12.99,110,12,NULL,12,NULL,0,NULL,0
+Beer,Hard Seltzer,Margarita Hard Seltzer 12pk Cans,1,1,0,1,0,1,0,1,0,0,0,0,0,19.99,110,12,NULL,12,NULL,0,NULL,0
+Beer,Beer,Variety Hard Seltzer 12pk Can,1,0,0,0,0,1,0,0,0,0,0,0,0,19.99,100,12,NULL,12,NULL,0,NULL,0
+Beer,Hard Kombucha,Hard Kombucha Rotating Variety 6pk,1,0,0,0,0,1,0,0,0,0,0,0,0,16.99,136,12,NULL,6,NULL,0,NULL,0
+Beer,Beer,White 6pk Cans,1,0,0,0,0,1,0,0,0,0,0,0,0,12.99,154,12,NULL,6,NULL,0,NULL,0
+Beer,Beer,Ipa Phantom Bride Can 6pk ,1,0,0,0,0,1,0,1,0,0,0,0,0,13.99,210,12,NULL,6,NULL,0,NULL,0
+Beer,Beer,Free Wave Hazy IPA,1,0,0,0,0,1,0,0,0,0,0,0,0,11.99,70,12,NULL,6,NULL,0,NULL,0
+Beer,Beer,Organic Variety Seltzer 12pk Cans,1,0,1,1,1,1,1,0,0,1,0,0,0,18.99,80,12,NULL,12,NULL,0,NULL,0
+Wine,Red Wine,Cabernet Sauvignon,1,0,0,1,0,1,0,1,0,0,0,0,0,4.99,120,25.4,NULL,1,NULL,0,NULL,0
+Wine,Red Wine,Red Blend,1,1,0,1,0,1,0,1,0,0,0,0,0,11.99,210,25.4,NULL,1,NULL,0,NULL,0
+Wine,White Wine,Torrones,1,0,0,1,0,1,0,1,0,0,0,0,0,12.99,220,25.4,NULL,1,NULL,0,NULL,0
+Wine,White Wine,Riesling,1,0,0,1,1,1,0,1,0,0,0,0,0,12.29,600,25.4,NULL,1,NULL,0,NULL,0
+Wine,Red Wine,Cabernet Sauvignon,0,0,1,0,0,1,1,0,0,1,0,0,0,32.99,125,25.4,NULL,1,NULL,0,NULL,0
+Wine,Red Wine,Claret Diamond Series,0,0,1,0,0,1,1,0,0,1,0,0,0,17.49,122,25.4,NULL,1,NULL,0,NULL,0
+Wine,Red Wine,Cannonball Cabernet Sauvignon,0,0,1,0,0,1,1,0,0,1,0,0,0,15.49,120,25.4,NULL,1,NULL,0,NULL,0
+Wine,Red Wine,Cabernet Sauvignon,0,0,1,0,0,1,1,0,0,1,0,0,0,15.49,125,25.4,NULL,1,NULL,0,NULL,0
+Wine,Red Wine,Alexander Valley Cabernet Sauvignon,0,0,1,0,0,1,1,0,0,1,0,0,0,87.99,620,25.4,NULL,1,NULL,0,NULL,0
+Wine,Red Wine,Chianti Classico DOCG Riserva,0,0,1,0,0,1,1,0,0,1,0,0,0,36.99,125,25.4,NULL,1,NULL,0,NULL,0
+Wine,Red Wine,Cabernet Sauvignon,0,0,1,0,0,0,0,0,0,0,1,0,0,10.99,114,25.4,NULL,1,NULL,0,NULL,0
+Wine,White Wine,Mensch White Wine,0,0,0,0,0,0,0,0,0,0,1,0,0,21.99,125,25.4,NULL,1,NULL,0,NULL,0
+Wine,Red Wine,Stella Black,0,0,0,0,0,1,0,0,0,1,0,0,0,11.99,160,25.4,NULL,1,NULL,0,NULL,0
+Wine,White Wine,Moscato DOCG,0,0,0,0,0,0,0,0,0,1,0,0,0,18.99,118,25.4,NULL,1,NULL,0,NULL,0
+Wine,White Wine,Organic Pinot Grigio,0,0,0,0,1,0,0,0,0,0,0,0,0,16.49,123,25.4,NULL,1,NULL,0,NULL,0
+Wine,Blend,Bubbles Rose,1,0,0,1,0,1,0,1,0,0,0,0,0,5.99,125,12.7,NULL,1,NULL,0,NULL,0
+Wine,Chardonnay,Organic Grapes Chardonnay,0,0,0,0,1,0,0,0,0,0,0,0,0,19.99,80,25.4,NULL,1,NULL,0,NULL,0
