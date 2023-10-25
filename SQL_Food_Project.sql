@@ -2,9 +2,8 @@
 -- BUSINESS QUESTION: DO THE HEALTHIER FOODS COST LESS?
 
 -- DEFINITIONS:
-	--  Healthy food: Includes: vegan, gluten free, vegetarian, organic, dairy free, sugar conscious, paleo friendly, 
-	-- 		wholefoods diet, low sodium, kosher, low fat and engine2.
-	-- 	Cost: USDA established that to measure the cost of healthy foods, the metric is price per calorie
+	--  Healthy food: Includes: vegan, gluten free, vegetarian, organic, dairy free, sugar conscious, paleo friendly, wholefoods diet, low sodium, kosher, low fat and engine2
+	--  Cost: USDA established that to measure the cost of healthy foods, the metric is price per calorie
 
 USE sakila;
 SELECT * FROM food_project;
